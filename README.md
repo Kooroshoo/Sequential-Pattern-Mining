@@ -21,5 +21,7 @@ each truck can have a number of routes, for instance:
 To elaborate the above example, Truck AX456 on each trip has shipped different product, the task we are going to solve is to find frequent product deliveries which are carried out
 in sequence.
 
+![Untitled](https://user-images.githubusercontent.com/26629624/86530308-04158300-beb8-11ea-9aaa-1c9f689c7d08.png)
+
 #
 This Project was part of the course Data Mining offered in University Of Trento in Italy
